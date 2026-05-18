@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Library
 Aplikasi Perpustakaan Berbasis Website
 
@@ -42,4 +41,3 @@ password : 123
 ![image](https://user-images.githubusercontent.com/70128349/224611568-c2124680-ff66-4358-971d-15ff7585e94c.png)
 =======
 # perpustakaan
->>>>>>> 52b96c7a529fc1e0408321a8f0309d9a07f55ea5
